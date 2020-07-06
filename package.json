@@ -1,0 +1,19 @@
+{
+  "name": "woodworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingLard/WoodWorks.git"
+  },
+  "author": "Brett Landes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingLard/WoodWorks/issues"
+  },
+  "homepage": "https://github.com/KingLard/WoodWorks#readme"
+}
