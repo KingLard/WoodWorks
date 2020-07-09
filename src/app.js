@@ -43,7 +43,14 @@ app.get('', (req, res) => {
 
 
 app.get('/products', (req, res) => {
-    res.render('index', {
+    res.render('products', {
+        title: 'Weather App',
+        name: 'Brett Landes'
+    })
+})
+
+app.get('/contact', (req, res) => {
+    res.render('contact', {
         title: 'Weather App',
         name: 'Brett Landes'
     })
