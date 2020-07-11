@@ -39,3 +39,11 @@
 .bottom-nav {
     height: 50px;
 }
+
+.prod-row {
+    margin-bottom: 20px;
+}
+
+#price {
+    margin-left: 140px;
+}
